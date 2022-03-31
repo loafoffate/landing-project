@@ -109,7 +109,7 @@ body {
     height: 240px;
     width: calc(50% - var(--offset) / 2);
     
-    background-color: purple;
+    background-color: red;
     margin-bottom: var(--offset);
     border-radius: 8px;
 
